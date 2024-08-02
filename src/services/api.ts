@@ -6,5 +6,5 @@ export const api = axios.create({
 
 
 export const apiStock = axios.create({
-  baseURL: 'https://wemovie-ivory.vercel.app/server.json',
+  baseURL: 'https://wemovie-ivory.vercel.app/',
 });
